@@ -1,1 +1,1 @@
-# GoRails
+# Go Rails
