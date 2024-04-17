@@ -1,1 +1,3 @@
-Ruby on Rails training for me
+# GitHub tutorial
+
+## GitHub first steps
